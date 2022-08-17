@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.95d4be6e.css",
+    "main.css": "/static/css/main.a5242e9f.css",
     "main.js": "/static/js/main.a03b6909.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/road.jpeg": "/static/media/road.d10a30da4e85e16b6dbd.jpeg",
@@ -9,12 +9,12 @@
     "static/media/person.jpeg": "/static/media/person.95a5df85e887264d3625.jpeg",
     "static/media/nova-logo-drawing.webp": "/static/media/nova-logo-drawing.22f15064a14c7f94abd8.webp",
     "index.html": "/index.html",
-    "main.95d4be6e.css.map": "/static/css/main.95d4be6e.css.map",
+    "main.a5242e9f.css.map": "/static/css/main.a5242e9f.css.map",
     "main.a03b6909.js.map": "/static/js/main.a03b6909.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95d4be6e.css",
+    "static/css/main.a5242e9f.css",
     "static/js/main.a03b6909.js"
   ]
 }
