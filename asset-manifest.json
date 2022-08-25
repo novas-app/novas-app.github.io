@@ -1,9 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd128d33.css",
-    "main.js": "/static/js/main.e9926261.js",
+    "main.css": "/static/css/main.a62e0045.css",
+    "main.js": "/static/js/main.059e3346.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/paderborn.jpg": "/static/media/paderborn.499894802731fa53f8f7.jpg",
+    "static/media/schwerin.jpg": "/static/media/schwerin.d21dd825ad525ad880ae.jpg",
+    "static/media/rostock.jpg": "/static/media/rostock.1e65b8fdd0eec7392681.jpg",
+    "static/media/wismar.jpg": "/static/media/wismar.d42fdf32c09133c76789.jpg",
     "static/media/road.jpeg": "/static/media/road.d10a30da4e85e16b6dbd.jpeg",
+    "static/media/greifswald.jpg": "/static/media/greifswald.88217c385779b9ad7a99.jpg",
+    "static/media/neubrandenburg.jpg": "/static/media/neubrandenburg.252399e58aa4a9f86991.jpg",
     "static/media/nova-team-scaled.webp": "/static/media/nova-team-scaled.a18a71c2903677e6a88f.webp",
     "static/media/novaLogo.svg": "/static/media/novaLogo.10ea8f42a254ad5d1d8a0c6da45bb4df.svg",
     "static/media/person.jpeg": "/static/media/person.95a5df85e887264d3625.jpeg",
@@ -33,12 +39,12 @@
     "static/media/logo04.webp": "/static/media/logo04.0332e9e584ba383627f1.webp",
     "static/media/logo10.webp": "/static/media/logo10.4cad0c3202c5dc512b20.webp",
     "index.html": "/index.html",
-    "main.cd128d33.css.map": "/static/css/main.cd128d33.css.map",
-    "main.e9926261.js.map": "/static/js/main.e9926261.js.map",
+    "main.a62e0045.css.map": "/static/css/main.a62e0045.css.map",
+    "main.059e3346.js.map": "/static/js/main.059e3346.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd128d33.css",
-    "static/js/main.e9926261.js"
+    "static/css/main.a62e0045.css",
+    "static/js/main.059e3346.js"
   ]
 }
