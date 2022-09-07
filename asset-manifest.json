@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.973bca73.css",
-    "main.js": "/static/js/main.f3fe3675.js",
+    "main.css": "/static/css/main.e114570a.css",
+    "main.js": "/static/js/main.7c574bcc.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/blog4.jpg": "/static/media/blog4.e1daf59f843831b64de4.jpg",
+    "static/media/blog5.jpg": "/static/media/blog5.9bbc990b00057f7aed18.jpg",
     "static/media/paderborn.jpg": "/static/media/paderborn.499894802731fa53f8f7.jpg",
     "static/media/schwerin.jpg": "/static/media/schwerin.d21dd825ad525ad880ae.jpg",
     "static/media/rostock.jpg": "/static/media/rostock.1e65b8fdd0eec7392681.jpg",
     "static/media/wismar.jpg": "/static/media/wismar.d42fdf32c09133c76789.jpg",
     "static/media/road.jpeg": "/static/media/road.d10a30da4e85e16b6dbd.jpeg",
+    "static/media/blog3.jpg": "/static/media/blog3.1824ae5e73fe3ae238f9.jpg",
     "static/media/mobile-slide-1.jpg": "/static/media/mobile-slide-1.96d4ac82c4fcfb4576a0.jpg",
     "static/media/mobile-slide-2.jpg": "/static/media/mobile-slide-2.c1ca07be63d57ae9d0d8.jpg",
     "static/media/greifswald.jpg": "/static/media/greifswald.88217c385779b9ad7a99.jpg",
     "static/media/neubrandenburg.jpg": "/static/media/neubrandenburg.252399e58aa4a9f86991.jpg",
     "static/media/nova-team-scaled.webp": "/static/media/nova-team-scaled.a18a71c2903677e6a88f.webp",
     "static/media/novaLogo.svg": "/static/media/novaLogo.10ea8f42a254ad5d1d8a0c6da45bb4df.svg",
+    "static/media/blog2.jpg": "/static/media/blog2.3b2b5fc33d60c774d796.jpg",
     "static/media/person.jpeg": "/static/media/person.95a5df85e887264d3625.jpeg",
     "static/media/logo23.webp": "/static/media/logo23.7f11560889edf794d6a7.webp",
+    "static/media/blog1.jpg": "/static/media/blog1.28ef2e332a3fae0917f4.jpg",
     "static/media/nova-logo-drawing.webp": "/static/media/nova-logo-drawing.22f15064a14c7f94abd8.webp",
     "static/media/hepster.png": "/static/media/hepster.e965bd495fd1f2e1ca14.png",
     "static/media/announcement.jpg": "/static/media/announcement.6057d02e7eeca5a33e93.jpg",
@@ -65,12 +70,12 @@
     "static/media/sparkasse.webp": "/static/media/sparkasse.bab77053020e3a11aefe.webp",
     "static/media/logo10.webp": "/static/media/logo10.4cad0c3202c5dc512b20.webp",
     "index.html": "/index.html",
-    "main.973bca73.css.map": "/static/css/main.973bca73.css.map",
-    "main.f3fe3675.js.map": "/static/js/main.f3fe3675.js.map",
+    "main.e114570a.css.map": "/static/css/main.e114570a.css.map",
+    "main.7c574bcc.js.map": "/static/js/main.7c574bcc.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.973bca73.css",
-    "static/js/main.f3fe3675.js"
+    "static/css/main.e114570a.css",
+    "static/js/main.7c574bcc.js"
   ]
 }
