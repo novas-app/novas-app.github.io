@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef95d2f5.css",
-    "main.js": "/static/js/main.76e0037c.js",
+    "main.css": "/static/css/main.973bca73.css",
+    "main.js": "/static/js/main.f3fe3675.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/paderborn.jpg": "/static/media/paderborn.499894802731fa53f8f7.jpg",
     "static/media/schwerin.jpg": "/static/media/schwerin.d21dd825ad525ad880ae.jpg",
@@ -65,12 +65,12 @@
     "static/media/sparkasse.webp": "/static/media/sparkasse.bab77053020e3a11aefe.webp",
     "static/media/logo10.webp": "/static/media/logo10.4cad0c3202c5dc512b20.webp",
     "index.html": "/index.html",
-    "main.ef95d2f5.css.map": "/static/css/main.ef95d2f5.css.map",
-    "main.76e0037c.js.map": "/static/js/main.76e0037c.js.map",
+    "main.973bca73.css.map": "/static/css/main.973bca73.css.map",
+    "main.f3fe3675.js.map": "/static/js/main.f3fe3675.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef95d2f5.css",
-    "static/js/main.76e0037c.js"
+    "static/css/main.973bca73.css",
+    "static/js/main.f3fe3675.js"
   ]
 }
