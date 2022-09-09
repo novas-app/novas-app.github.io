@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2a20130.css",
-    "main.js": "/static/js/main.a3ce5100.js",
+    "main.css": "/static/css/main.8cfbc383.css",
+    "main.js": "/static/js/main.d14d103a.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/blog4.jpg": "/static/media/blog4.e1daf59f843831b64de4.jpg",
     "static/media/blog5.jpg": "/static/media/blog5.9bbc990b00057f7aed18.jpg",
@@ -11,6 +11,7 @@
     "static/media/wismar.jpg": "/static/media/wismar.d42fdf32c09133c76789.jpg",
     "static/media/road.jpeg": "/static/media/road.d10a30da4e85e16b6dbd.jpeg",
     "static/media/blog3.jpg": "/static/media/blog3.1824ae5e73fe3ae238f9.jpg",
+    "static/media/Blue-and-Orange-Wallpaper.jpg": "/static/media/Blue-and-Orange-Wallpaper.3af556f7e4a516769bac.jpg",
     "static/media/mobile-slide-1.jpg": "/static/media/mobile-slide-1.96d4ac82c4fcfb4576a0.jpg",
     "static/media/mobile-slide-2.jpg": "/static/media/mobile-slide-2.c1ca07be63d57ae9d0d8.jpg",
     "static/media/greifswald.jpg": "/static/media/greifswald.88217c385779b9ad7a99.jpg",
@@ -70,12 +71,12 @@
     "static/media/sparkasse.webp": "/static/media/sparkasse.bab77053020e3a11aefe.webp",
     "static/media/logo10.webp": "/static/media/logo10.4cad0c3202c5dc512b20.webp",
     "index.html": "/index.html",
-    "main.b2a20130.css.map": "/static/css/main.b2a20130.css.map",
-    "main.a3ce5100.js.map": "/static/js/main.a3ce5100.js.map",
+    "main.8cfbc383.css.map": "/static/css/main.8cfbc383.css.map",
+    "main.d14d103a.js.map": "/static/js/main.d14d103a.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2a20130.css",
-    "static/js/main.a3ce5100.js"
+    "static/css/main.8cfbc383.css",
+    "static/js/main.d14d103a.js"
   ]
 }
