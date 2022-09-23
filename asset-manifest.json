@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae9920d3.css",
-    "main.js": "/static/js/main.d5af9b0c.js",
+    "main.css": "/static/css/main.6fc20368.css",
+    "main.js": "/static/js/main.b1df7fa0.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/blog4.jpg": "/static/media/blog4.e1daf59f843831b64de4.jpg",
     "static/media/blog5.jpg": "/static/media/blog5.9bbc990b00057f7aed18.jpg",
@@ -71,12 +71,12 @@
     "static/media/sparkasse.webp": "/static/media/sparkasse.bab77053020e3a11aefe.webp",
     "static/media/logo10.webp": "/static/media/logo10.4cad0c3202c5dc512b20.webp",
     "index.html": "/index.html",
-    "main.ae9920d3.css.map": "/static/css/main.ae9920d3.css.map",
-    "main.d5af9b0c.js.map": "/static/js/main.d5af9b0c.js.map",
+    "main.6fc20368.css.map": "/static/css/main.6fc20368.css.map",
+    "main.b1df7fa0.js.map": "/static/js/main.b1df7fa0.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae9920d3.css",
-    "static/js/main.d5af9b0c.js"
+    "static/css/main.6fc20368.css",
+    "static/js/main.b1df7fa0.js"
   ]
 }
