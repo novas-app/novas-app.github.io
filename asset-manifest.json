@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.decb324d.css",
-    "main.js": "/static/js/main.b63567ee.js",
+    "main.css": "/static/css/main.78c53ec6.css",
+    "main.js": "/static/js/main.7cc23a5f.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/blog4.jpg": "/static/media/blog4.e1daf59f843831b64de4.jpg",
     "static/media/blog5.jpg": "/static/media/blog5.9bbc990b00057f7aed18.jpg",
@@ -27,6 +27,7 @@
     "static/media/blog2.jpg": "/static/media/blog2.3b2b5fc33d60c774d796.jpg",
     "static/media/person.jpeg": "/static/media/person.95a5df85e887264d3625.jpeg",
     "static/media/logo23.webp": "/static/media/logo23.7f11560889edf794d6a7.webp",
+    "static/media/nova-campus-jobs-7.jpg": "/static/media/nova-campus-jobs-7.67f3a4ace5374c546244.jpg",
     "static/media/blog1.jpg": "/static/media/blog1.28ef2e332a3fae0917f4.jpg",
     "static/media/picture5.jpg": "/static/media/picture5.b37bed963b8ec0739c69.jpg",
     "static/media/nova-logo-drawing.webp": "/static/media/nova-logo-drawing.22f15064a14c7f94abd8.webp",
@@ -34,6 +35,7 @@
     "static/media/red-bg.png": "/static/media/red-bg.97dde2eb1aaa1e067b23.png",
     "static/media/volleyball.jpg": "/static/media/volleyball.aa1dc2cd72d78b8501af.jpg",
     "static/media/sc1.jpg": "/static/media/sc1.8b4b7ec61851d036f27f.jpg",
+    "static/media/nachfolgezentrale-mv.jpg": "/static/media/nachfolgezentrale-mv.2f32cebbe3cc14d941dc.jpg",
     "static/media/announcement.jpg": "/static/media/announcement.6057d02e7eeca5a33e93.jpg",
     "static/media/Nova-Campus-Reference.webp": "/static/media/Nova-Campus-Reference.e098aa772cae68238a45.webp",
     "static/media/Reference-leogistics.webp": "/static/media/Reference-leogistics.e098aa772cae68238a45.webp",
@@ -61,6 +63,7 @@
     "static/media/clausohm.png": "/static/media/clausohm.147498bcffd52753d025.png",
     "static/media/snappyFinger.png": "/static/media/snappyFinger.bca8614e0a8362617046.png",
     "static/media/chainHand.png": "/static/media/chainHand.98bfb1a64e70654197d5.png",
+    "static/media/nachfolgezentrale_logo.jpg": "/static/media/nachfolgezentrale_logo.411166636354c4c0cffc.jpg",
     "static/media/feedback.png": "/static/media/feedback.bf0281c689ca58b9b846.png",
     "static/media/customer6.webp": "/static/media/customer6.7673bf6643b9bf7261b7.webp",
     "static/media/pic2.png": "/static/media/pic2.7673bf6643b9bf7261b7.png",
@@ -111,12 +114,12 @@
     "index.html": "/index.html",
     "static/media/left-arrow.svg": "/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
     "static/media/right-arrow.svg": "/static/media/right-arrow.89a84dc581c2a82b518ab78f63c7e68d.svg",
-    "main.decb324d.css.map": "/static/css/main.decb324d.css.map",
-    "main.b63567ee.js.map": "/static/js/main.b63567ee.js.map",
+    "main.78c53ec6.css.map": "/static/css/main.78c53ec6.css.map",
+    "main.7cc23a5f.js.map": "/static/js/main.7cc23a5f.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.decb324d.css",
-    "static/js/main.b63567ee.js"
+    "static/css/main.78c53ec6.css",
+    "static/js/main.7cc23a5f.js"
   ]
 }
