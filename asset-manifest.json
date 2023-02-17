@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f19007a.css",
-    "main.js": "/static/js/main.f50f9278.js",
+    "main.css": "/static/css/main.8f4c0663.css",
+    "main.js": "/static/js/main.54d68194.js",
     "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
     "static/media/img13.png": "/static/media/img13.b829373372523a6a0cc1.png",
     "static/media/img6.png": "/static/media/img6.143874d7734fa81a69d0.png",
@@ -48,7 +48,6 @@
     "static/media/person.jpeg": "/static/media/person.95a5df85e887264d3625.jpeg",
     "static/media/logo23.webp": "/static/media/logo23.7f11560889edf794d6a7.webp",
     "static/media/nova-campus-jobs-7.jpg": "/static/media/nova-campus-jobs-7.67f3a4ace5374c546244.jpg",
-    "static/media/bg4.jpg": "/static/media/bg4.2d1961634a6b9fd793b9.jpg",
     "static/media/blog1.jpg": "/static/media/blog1.28ef2e332a3fae0917f4.jpg",
     "static/media/picture5.jpg": "/static/media/picture5.b37bed963b8ec0739c69.jpg",
     "static/media/nova-logo-drawing.webp": "/static/media/nova-logo-drawing.22f15064a14c7f94abd8.webp",
@@ -60,7 +59,6 @@
     "static/media/announcement.jpg": "/static/media/announcement.6057d02e7eeca5a33e93.jpg",
     "static/media/Nova-Campus-Reference.webp": "/static/media/Nova-Campus-Reference.e098aa772cae68238a45.webp",
     "static/media/Reference-leogistics.webp": "/static/media/Reference-leogistics.e098aa772cae68238a45.webp",
-    "static/media/bg3.jpg": "/static/media/bg3.8cf4db391a90cc2436fe.jpg",
     "static/media/picture3.jpg": "/static/media/picture3.92584c4ab890c10fe408.jpg",
     "static/media/blue2.png": "/static/media/blue2.c80057c071af496e35f0.png",
     "static/media/Logo_NOVA.png": "/static/media/Logo_NOVA.afd6873c607c05417c2e.png",
@@ -74,8 +72,6 @@
     "static/media/mobile.png": "/static/media/mobile.05197556ef05ca345a26.png",
     "static/media/zombie.gif": "/static/media/zombie.dbe11979084e1cb1d9c6.gif",
     "static/media/inp.webp": "/static/media/inp.95e9db933521ba9df0e1.webp",
-    "static/media/bg6.png": "/static/media/bg6.66c8d44b18a0a8a29c12.png",
-    "static/media/bg7.jpg": "/static/media/bg7.05ac4aae8ec6978e8a87.jpg",
     "static/media/Productivity.webp": "/static/media/Productivity.db1994e6041c14250fb9.webp",
     "static/media/clock.png": "/static/media/clock.34825dbc2beda5a99878.png",
     "static/media/blue-bg1.jpg": "/static/media/blue-bg1.30dba5dd55a5bca54b8f.jpg",
@@ -140,12 +136,12 @@
     "index.html": "/index.html",
     "static/media/left-arrow.svg": "/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
     "static/media/right-arrow.svg": "/static/media/right-arrow.89a84dc581c2a82b518ab78f63c7e68d.svg",
-    "main.7f19007a.css.map": "/static/css/main.7f19007a.css.map",
-    "main.f50f9278.js.map": "/static/js/main.f50f9278.js.map",
+    "main.8f4c0663.css.map": "/static/css/main.8f4c0663.css.map",
+    "main.54d68194.js.map": "/static/js/main.54d68194.js.map",
     "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f19007a.css",
-    "static/js/main.f50f9278.js"
+    "static/css/main.8f4c0663.css",
+    "static/js/main.54d68194.js"
   ]
 }
